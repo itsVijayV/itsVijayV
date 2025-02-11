@@ -11,14 +11,13 @@ I'm a **Unity Developer** passionate about creating immersive gaming experiences
 ## 🚀 Projects
 Here are some of my recent projects:
 - **[Desert Runner](https://github.com/yourusername/temple-exploration)**: An adventure game set in a mysterious temple.
-- **[](https://github.com/yourusername/lost-relic-hunter)**: A treasure-hunting game with challenging puzzles.
-- **[Endless Runner](https://github.com/yourusername/endless-runner)**: A fast-paced runner game with dynamic obstacles.
+- **[Vintage Velocity](https://github.com/yourusername/lost-relic-hunter)**: A treasure-hunting game with challenging puzzles.
+- **[ZombieLand](https://github.com/yourusername/endless-runner)**: A fast-paced runner game with dynamic obstacles.
 
 ## 📫 Let's Connect
-- **Email**: [youremail@example.com](mailto:youremail@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourlinkedin)
+- **Email**: [youremail@example.com](mailto:v.vijaybca2002@gmail.com)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/vijayveeramani2002/)
 - **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
-- **Itch.io**: [Your Itch.io Profile](https://yourusername.itch.io)
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
