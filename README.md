@@ -17,7 +17,7 @@ Here are some of my recent projects:
 ## 📫 Let's Connect
 - **Email**: [youremail@example.com](mailto:v.vijaybca2002@gmail.com)
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/vijayveeramani2002/)
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
+- **GitHub**: [Your GitHub Profile]((https://github.com/itsVijayV))
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
@@ -29,4 +29,4 @@ When I'm not coding, I love playing indie games and exploring ancient history!
 
 ---
 
-⭐️ From [Vijay V](https://github.com/yourusername)
+⭐️ From [Vijay V](https://github.com/itsVijayV)
