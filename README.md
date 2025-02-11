@@ -15,9 +15,9 @@ Here are some of my recent projects:
 - **[ZombieLand](https://github.com/yourusername/endless-runner)**: A fast-paced runner game with dynamic obstacles.
 
 ## 📫 Let's Connect
-- **Email**: [youremail@example.com](mailto:v.vijaybca2002@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/vijayveeramani2002/)
-- **GitHub**: [Your GitHub Profile]((https://github.com/itsVijayV))
+- **Email**: [v.vijaybca2002@gmail.com](mailto:v.vijaybca2002@gmail.com)
+- **LinkedIn**: [vijayveeramani2002](https://www.linkedin.com/in/vijayveeramani2002/)
+- **GitHub**: [itsVijayV](https://github.com/itsVijayV)
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
