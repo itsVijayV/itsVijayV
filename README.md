@@ -1,6 +1,6 @@
 # Hi there, I'm Vijay V! 👋
 
-I'm a **Unity Developer** passionate about creating immersive gaming experiences. I specialize in game mechanics, physics simulations, and 3D environments. Currently, I'm working on a hidden Sun Temple adventure game.
+I'm a student passionate about game development, constantly learning and experimenting with Unity, physics simulations, and 3D environments to create immersive experiences.
 
 ## 🛠️ Skills
 - **Game Development**: Unity, C#
