@@ -20,9 +20,9 @@ Here are some of my recent projects:
 - **GitHub**: [itsVijayV](https://github.com/itsVijayV)
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsVijayV&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsVijayV&layout=compact)
 
 ## 🎮 Fun Fact
 When I'm not coding, I love playing indie games and exploring ancient history!
