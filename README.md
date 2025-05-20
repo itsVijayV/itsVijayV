@@ -10,7 +10,7 @@ I'm a student passionate about game development, constantly learning and experim
 
 ## 🚀 Projects
 Here are some of my recent projects:
-- **[Desert Runner](https://github.com/yourusername/temple-exploration)**: A fast-paced endless runner in the desert.
+- **[Desert Runner]([https://github.com/yourusername/temple-exploration](https://github.com/itsVijayV/desertRunner))**: A fast-paced endless runner in the desert.
 - **[Vintage Velocity](https://github.com/yourusername/lost-relic-hunter)**: An adrenaline-pumping car racing game.
 - **[ZombieLand](https://github.com/yourusername/endless-runner)**: A thrilling survival game against zombies.
 
