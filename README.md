@@ -12,7 +12,7 @@ I'm a student passionate about game development, constantly learning and experim
 Here are some of my recent projects:
 - **[Desert Runner](https://github.com/itsVijayV/desertRunner)**: A fast-paced endless runner in the desert.
 - **[Vintage Velocity](https://github.com/itsVijayV/Vintage-Velocity.git)**: An adrenaline-pumping car racing game.
-- **[ZombieLand](https://github.com/yourusername/endless-runner)**: A thrilling survival game against zombies.
+- **[ZombieLand](https://github.com/itsVijayV/ZombieLand.git)**: A thrilling survival game against zombies.
 
 ## 📫 Let's Connect
 - **Email**: [v.vijaybca2002@gmail.com](mailto:v.vijaybca2002@gmail.com)
